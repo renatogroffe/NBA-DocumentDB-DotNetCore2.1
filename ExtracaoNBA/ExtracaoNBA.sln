@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CargaDadosNBA", "CargaDadosNBA\CargaDadosNBA.csproj", "{A67565E0-30AE-4D1F-B103-39D523CFCA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIDadosNBA", "APIDadosNBA\APIDadosNBA.csproj", "{40070C67-521D-4D96-9D1B-F15BBB7B2183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67565E0-30AE-4D1F-B103-39D523CFCA46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67565E0-30AE-4D1F-B103-39D523CFCA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67565E0-30AE-4D1F-B103-39D523CFCA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67565E0-30AE-4D1F-B103-39D523CFCA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40070C67-521D-4D96-9D1B-F15BBB7B2183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40070C67-521D-4D96-9D1B-F15BBB7B2183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40070C67-521D-4D96-9D1B-F15BBB7B2183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40070C67-521D-4D96-9D1B-F15BBB7B2183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F99640-766B-44D3-9FDD-78B4F8725181}
+	EndGlobalSection
+EndGlobal
